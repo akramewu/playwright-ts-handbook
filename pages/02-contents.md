@@ -1,3 +1,8 @@
+![Page 2](img/02-contents.png)
+
+<details>
+<summary>Text version (copy-paste friendly)</summary>
+
 _Playwright | Automation Testing Handbook 01_
 
 # Contents
@@ -43,3 +48,5 @@ _Playwright | Automation Testing Handbook 01_
 - A laptop with 8 GB RAM and a good internet connection
 
 - 2 -
+
+</details>

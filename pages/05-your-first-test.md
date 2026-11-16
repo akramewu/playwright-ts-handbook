@@ -1,3 +1,8 @@
+![Page 5](img/05-your-first-test.png)
+
+<details>
+<summary>Text version (copy-paste friendly)</summary>
+
 _Playwright | Automation Testing Handbook 01_
 
 # 3. Your First Test
@@ -57,3 +62,5 @@ test('get started link', async ({ page }) => {
 ☆ Reports are saved in the playwright-report folder
 
 - 5 -
+
+</details>

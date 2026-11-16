@@ -1,3 +1,8 @@
+![Page 4](img/04-installation-and-setup.png)
+
+<details>
+<summary>Text version (copy-paste friendly)</summary>
+
 _Playwright | Automation Testing Handbook 01_
 
 # 2. Installation and Setup
@@ -65,3 +70,5 @@ pw-demo/
 ```
 
 - 4 -
+
+</details>

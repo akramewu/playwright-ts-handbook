@@ -1,3 +1,8 @@
+![Page 3](img/03-what-is-playwright.png)
+
+<details>
+<summary>Text version (copy-paste friendly)</summary>
+
 _Playwright | Automation Testing Handbook 01_
 
 # 1. What is Playwright?
@@ -48,3 +53,5 @@ Test script  -->  Playwright library  -->  Browser  -->  Web app
 - Project: one browser or device setup in the config file
 
 - 3 -
+
+</details>

@@ -1,3 +1,8 @@
+![Page 6](img/06-locators.png)
+
+<details>
+<summary>Text version (copy-paste friendly)</summary>
+
 _Playwright | Automation Testing Handbook 01_
 
 # 4. Locators
@@ -50,3 +55,5 @@ for (const el of await page.getByRole('link').all()) { ... }
 - Combine: loc.and(other) and loc.or(other) for tricky cases
 
 - 6 -
+
+</details>
