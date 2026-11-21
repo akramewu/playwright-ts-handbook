@@ -1,16 +1,10 @@
-![Playwright Handbook 01 of 10 cover](cover.png)
+# Playwright + TypeScript Handbook
 
-# PLAYWRIGHT
+**[📖 Open the handbook (PDF)](Playwright-Handbook-01.pdf)**
 
-**HANDBOOK 01 of 10**
+Handwritten notes on Playwright automation testing with TypeScript — beginner to advanced.
 
-## Automation Testing Notes
-
-Handwritten | Beginner to Advanced | TypeScript
-
----
-
-## What you will learn inside
+## What's inside
 
 - Install Playwright and write your first test
 - Locators, actions and assertions
@@ -18,7 +12,5 @@ Handwritten | Beginner to Advanced | TypeScript
 - Frames, tabs, downloads and API testing
 - Config, parallel run, debugging and reports
 - CI/CD with GitHub Actions + interview questions
-
----
 
 Subject: Automation Testing | Topic: Playwright | 19 pages
